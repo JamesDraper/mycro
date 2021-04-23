@@ -2,6 +2,7 @@
     "name": "james-draper/mycro",
     "description": "A simple PDO wrapper for MySQL databases.",
     "keywords":    ["pdo", "mysql"],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Mycro\\": "src"
