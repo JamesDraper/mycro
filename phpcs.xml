@@ -4,5 +4,7 @@
         <exclude name="PSR12.Classes.ClassInstantiation.MissingParentheses"/>
         <exclude name="PSR12.Files.FileHeader.SpacingInsideBlock"/>
         <exclude name="PSR12.Files.FileHeader.SpacingAfterBlock"/>
+
+        <exclude name="PSR1.Classes.ClassDeclaration.MultipleClasses"/>
     </rule>
 </ruleset>
